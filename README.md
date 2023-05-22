@@ -1,2 +1,1 @@
-# hospital
-Hospital Management
+# hospital 
